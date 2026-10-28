@@ -29,6 +29,7 @@ A native Android launcher and engine runtime for Grand Theft Auto V, engineered 
 | **RAM** | 8 GB | 12 GB – 16 GB LPDDR5X |
 | **Storage** | 21 GB | 21 GB |
 | **Cooling / Thermal** | Passive cooling (throttling expected) | Active cooling fan or phone cooler accessory |
+| **WIFI** | 4G LTE | WIFI |
 ---
 ## 🕹️ Gamepad Default Controls
 | Action | Controller Button | In-Vehicle |
