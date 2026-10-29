@@ -32,7 +32,7 @@ If you enjoy this project and want to help support server hosting and download b
 ---
 ## 📲 Download & Installation
 ### Direct Download Link
-👉 **[Download GTAV_Android_v1.0.1_arm64.apk (MediaFire)](https://www.mediafire.com/file/bmaayl6vmtvc02a/GTAV_Android_v1.0.1_arm64.apk/file)**
+👉 **[Download GTAV_Android_v1.0.2_arm64.apk (MediaFire)](https://www.mediafire.com/file/pzmoh3v61468j0i/GTAV_Android_v1.0.2_arm64.apk/file)**
 ---
 ## ⚙️ System Requirements
 | Requirement | Minimum (720p / Low Settings, 25–30 FPS) | Recommended (1080p / Medium Settings, 45–60 FPS) |
