@@ -43,7 +43,7 @@ If you enjoy this project and want to help support server hosting and download b
 | **RAM** | 8 GB | 12 GB – 16 GB LPDDR5X |
 | **Storage** | 15 GB | 15 GB |
 | **Cooling / Thermal** | Passive cooling (throttling expected) | Active cooling fan or phone cooler accessory |
-| **WIFI** | 4G LTE | WIFI |
+| **Network** | 4G LTE | WIFI |
 ---
 ## 🕹️ Gamepad Default Controls
 | Action | Controller Button | In-Vehicle |
