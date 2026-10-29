@@ -42,6 +42,7 @@ If you enjoy this project and want to help support server hosting and download b
 | **GPU / Graphics** | Adreno 6xx / Mali-G77 (Vulkan 1.3 support) | Adreno 7xx (Turnip driver support strongly recommended) |
 | **RAM** | 8 GB | 12 GB – 16 GB LPDDR5X |
 | **Storage** | 15 GB | 15 GB |
+| **Graphics API** | Vulkan 1.1+ | Vulkan 1.3 |
 | **Cooling / Thermal** | Passive cooling (throttling expected) | Active cooling fan or phone cooler accessory |
 | **Network** | 4G LTE | WIFI |
 ---
