@@ -44,7 +44,7 @@ If you enjoy this project and want to help support server hosting and download b
 | **Storage** | 15 GB | 15 GB |
 | **Graphics API** | Vulkan 1.1+ | Vulkan 1.3 |
 | **Cooling / Thermal** | Passive cooling (throttling expected) | Active cooling fan or phone cooler accessory |
-| **Network** | 4G LTE | WIFI |
+| **Network** | 4G LTE | WIFI 5G |
 ---
 ## 🕹️ Gamepad Default Controls
 | Action | Controller Button | In-Vehicle |
