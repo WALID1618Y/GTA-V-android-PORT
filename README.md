@@ -3,7 +3,7 @@
 [![Platform: Android](https://img.shields.io/badge/Platform-Android%208.0%2B-green.svg)](https://android.com)
 [![Architecture: ARM64](https://img.shields.io/badge/Arch-arm64--v8a-blue.svg)](https://developer.android.com/ndk)
 [![Graphics: Vulkan](https://img.shields.io/badge/Graphics-Vulkan%201.1%2B-orange.svg)](https://www.vulkan.org/)
-[![Release: v1.0.1](https://img.shields.io/badge/Release-v1.0.0-gold.svg)](https://www.mediafire.com/file/bmaayl6vmtvc02a/GTAV_Android_v1.0.1_arm64.apk/file)
+[![Release: v1.0.1](https://img.shields.io/badge/Release-v1.0.1-gold.svg)](https://www.mediafire.com/file/bmaayl6vmtvc02a/GTAV_Android_v1.0.1_arm64.apk/file)
 [![Donate: Buy Me A Coffee](https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-yellow.svg?logo=buy-me-a-coffee)](https://buy-me-coffee.wasmer.app/)
 
 A native Android launcher and engine runtime for Grand Theft Auto V, engineered from the ground up for modern 64-bit ARM mobile devices with Vulkan hardware acceleration, console-grade controller support, and intelligent performance optimization.
