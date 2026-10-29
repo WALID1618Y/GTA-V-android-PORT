@@ -4,6 +4,32 @@ All notable changes to the Grand Theft Auto V Android native port and launcher a
 
 ---
 
+## [1.1.3] - 2026-10-29
+
+### 🚀 Highlights
+This hotfix resolves the black screen stall at `"Ludendorff, North Yankton, nine years ago."` on Qualcomm Adreno devices (Snapdragon 8 Gen 2/3/Elite) and introduces a "Direct Los Santos Boot" selector in Launcher Settings.
+
+### 🎮 Graphics & GPU Drivers
+* **Qualcomm Adreno WGSL Clip-Distance Hotfix:**
+  * Batch-sanitized all 500 `.wgsl` shaders on disk to strip unsupported `enable clip_distances;` and `@builtin(clip_distances)`.
+  * Fixes native `naga`/`wgpu` validation failures (`ptfx_sprite::VS_lit`) that triggered `VK_ERROR_DEVICE_LOST` and deadlocked rendering at 0 FPS on Adreno 740/750 GPUs (Galaxy Z Fold, Galaxy S23/S24, OnePlus 12/13).
+  * Shaders now strictly comply with standard mobile WebGPU/Vulkan specifications across all Android devices.
+
+### 🌴 Launcher & Story Mode
+* **Direct Los Santos Boot Selector:**
+  * Added **"DIRECT LOS SANTOS BOOT"** toggle under **Settings → Graphics**.
+  * **Enabled (Default):** Spawns immediately as Franklin in open-world Los Santos, bypassing the 15-minute scripted prologue.
+  * **Disabled:** Starts the North Yankton bank robbery prologue from the beginning (now fully playable with fixed shaders).
+  * Seamlessly synchronized with `config.json` and native environment (`MUGUET_START_MODE`).
+
+### 📦 Release Verification
+* **File:** `GTAV_Android_v1.1.3_arm64.apk`
+* **Size:** `317,586,968 bytes` (~302.87 MB)
+* **SHA-256:** `C2E9F7961735525E8DB2D9971A965B5EF5208EAE6ADCC48664F424F37F9B7EFE`
+* **Signature:** APK Signature Scheme v2 (Verified)
+
+---
+
 ## [1.1.2] - 2026-10-29
 
 ### 🚀 Highlights
