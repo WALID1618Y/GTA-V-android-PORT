@@ -39,7 +39,7 @@ If you enjoy this project and want to help support server hosting and download b
 | :--- | :--- | :--- |
 | **Operating System** | Android 10 (API 29) | Android 13 – 15 |
 | **CPU Architecture** | 64-bit ARM64 (arm64-v8a), Octa-core | Snapdragon 8 Gen 2 / Gen 3 or Dimensity 9200+ |
-| **GPU / Graphics** | Adreno 6xx / Mali-G77 (Vulkan 1.3 support) | Adreno 7xx (Turnip driver support strongly recommended) |
+| **GPU / Graphics** | Adreno 6xx / Mali-G77 | Adreno 7xx |
 | **RAM** | 8 GB | 12 GB – 16 GB LPDDR5X |
 | **Storage** | 15 GB | 15 GB |
 | **Graphics API** | Vulkan 1.1+ | Vulkan 1.3 |
