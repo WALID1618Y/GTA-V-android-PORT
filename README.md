@@ -8,6 +8,10 @@
 
 A native Android launcher and engine runtime for Grand Theft Auto V, engineered from the ground up for modern 64-bit ARM mobile devices with Vulkan hardware acceleration, console-grade controller support, and intelligent performance optimization.
 
+## Discord Server
+
+**[click to join](https://discord.gg/BHbkjR5yTx)**
+
 ---
 
 ### Support & Donations
