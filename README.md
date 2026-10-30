@@ -27,7 +27,7 @@ A native Android launcher and engine runtime for Grand Theft Auto V, engineered 
 ## 📲 Download & Installation
 
 ### Direct Download Link
-👉 **[Download GTAV_Android_v1.0.0_arm64.apk (MediaFire)](https://www.mediafire.com/file/jvwzh73hgvo93q9/GTAV_Android_v2_arm64.apk/file)**
+👉 **[Download GTAV_Android_v2.0.0_arm64.apk (MediaFire)](https://www.mediafire.com/file/jvwzh73hgvo93q9/GTAV_Android_v2_arm64.apk/file)**
 
 ### Integrity Verification (SHA-256)
 To verify the integrity of your downloaded `.apk` file:
@@ -50,10 +50,10 @@ To verify the integrity of your downloaded `.apk` file:
 
 | Requirement | Minimum | Recommended |
 | :--- | :--- | :--- |
-| **Operating System** | Android 8.0 (Oreo / API 26) | Android 12 – 14 |
+| **Operating System** | Android 10 (API 26) | Android 12 – 14 |
 | **CPU Architecture** | 64-bit ARM64 (`arm64-v8a`) | Octa-core modern ARM processor |
 | **GPU / Graphics** | Vulkan 1.1 capable GPU | Mali-G68 / Adreno 650 or higher |
-| **RAM** | 8 GB | 6 GB – 8 GB+ |
+| **RAM** | 8 GB | 12 GB LPDDR5X |
 | **Storage** | 1 GB (Launcher + Base) | Scoped external app storage |
 
 ---
