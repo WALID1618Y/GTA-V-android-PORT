@@ -10,6 +10,12 @@ A native Android launcher and engine runtime for Grand Theft Auto V, engineered 
 
 ---
 
+## Discord Server
+
+**[click to join](https://discord.gg/kjQnCN8tct)**
+
+---
+
 ## 🎮 Key Features
 
 * **High-Performance Native Architecture**: Custom native engine compiled natively for 64-bit `arm64-v8a` target architecture with optimized memory management.
@@ -64,15 +70,6 @@ A native Android launcher and engine runtime for Grand Theft Auto V, engineered 
 | **Look Behind** | R3 (Right Stick Click) | Rearview Camera |
 | **Special Ability** | L3 + R3 (Both Sticks) | Franklin Driving Focus |
 | **Pause / Settings** | START / Options | Pause / Settings |
-
----
-
-## 🛡️ Note on Installation (Google Play Protect)
-When installing the APK for the first time outside of the Google Play Store, Android may prompt:
-> *"Blocked by Play Protect" / "Unrecognized App"*
-
-This is standard behavior for sideloaded releases that are not distributed through the Play Store. Simply tap:
-**"More details" $\rightarrow$ "Install anyway"**. The application has been independently security audited and contains zero malicious code.
 
 ---
 
