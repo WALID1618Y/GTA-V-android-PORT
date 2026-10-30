@@ -74,5 +74,26 @@ A native Android launcher and engine runtime for Grand Theft Auto V, engineered 
 
 ---
 
+## 🎮 Recommended GPU Drivers
+
+### 🔹 Qualcomm Snapdragon (Adreno)
+Download the driver ZIP and import it in **Settings → Enhancements → Select Custom Driver**:
+
+* **Snapdragon 8 Gen 2 / 8+ Gen 1 (Adreno 730 / 740):** 
+  👉 `Turnip Mesa v24.3.0 - Revision 19/20` (Best FPS & Vulkan 1.3 stability)
+* **Snapdragon 865 / 870 / 888 (Adreno 650 / 660):** 
+  👉 `Turnip Mesa v24.3.0 - Revision 18` (Fixes shader artifacts)
+* **Snapdragon 845 / 855 / 778G (Adreno 630 / 640 / 642):** 
+  👉 `Turnip Mesa v24.1.0 - Revision 18` (Low memory overhead)
+* **Snapdragon 8 Gen 3 / 8 Elite (Adreno 750 / 830):** 
+  👉 `Turnip Mesa v25.0.0-devel` or `Qualcomm v762.0`
+
+### 🔹 MediaTek Dimensity (ARM Mali / Immortalis)
+* **Do NOT install Turnip ZIPs** on MediaTek (they are only for Snapdragon Adreno).
+* Keep your driver on **System Default Vulkan Driver**.
+* The game automatically activates our native **Mali BCN Texture Transcoder** and **TBDR Tiler Mode** for maximum speed.
+
+---
+
 ## ⚖️ Disclaimer
 *This project is a non-commercial, experimental fan creation and educational research port. All Grand Theft Auto assets, trademarks, and intellectual properties remain the exclusive property of Rockstar Games and Take-Two Interactive.*
