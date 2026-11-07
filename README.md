@@ -43,7 +43,7 @@ A native Android launcher and engine runtime for Grand Theft Auto V, engineered 
 | :--- | :--- | :--- |
 | **Operating System** | Android 10 (API 26) | Android 12 – 15 |
 | **CPU Architecture** | 64-bit ARM64 (arm64-v8a), Octa-core | Snapdragon 8 Gen 2 / Gen 3 or Dimensity 9200+ |
-| **GPU / Graphics** | Adreno 6xx / Mali-G77 | Adreno 7xx |
+| **GPU / Graphics** | Adreno 6xx / Mali-G99 | Adreno 7xx |
 | **RAM** | 8 GB | 12 GB LPDDR5X |
 | **Storage** | 15 GB | 15 GB |
 | **Drivers** | Vulkan 1.1+ | Vulkan 1.3 |
