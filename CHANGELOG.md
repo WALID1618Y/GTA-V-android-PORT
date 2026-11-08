@@ -19,6 +19,7 @@ A massive new update is out! **v3.0** brings major stability overhauls, fixes de
 ### 🛠️ **CRITICAL BUG FIXES**
 > • **Xiaomi Controller Fix:** Resolved a bug where Xiaomi system inputs (`uinput-xiaomi`) were falsely detected as connected gamepads, hiding touch controls.
 > • **Minimap Anchor Fix:** Fixed the radar, player arrow, and health bars shifting on certain devices. The minimap is now permanently and cleanly locked to the bottom-left corner for everyone.
+> > • **Stability :** Improved performance.
 
 ---
 
