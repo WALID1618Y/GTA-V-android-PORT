@@ -2,6 +2,34 @@
 
 All notable changes to the Grand Theft Auto V Android native port and launcher are documented in this file.
 
+
+## [3.0.0] - 2026-11-08
+
+A massive new update is out! **v3.0** brings major stability overhauls, fixes device-specific bugs, and adds community-requested HUD customization.
+
+---
+
+### ⚡ **PERFORMANCE & ENGINE**
+> • **Dynamic Resolution Scaling (DRS):** Automatically scales render resolution during heavy shootouts and explosions to keep your FPS locked and smooth.
+> • **GPU Shader Optimizations:** Reworked mobile shaders to cut draw calls across Los Santos, greatly reducing phone overheating & battery drain (especially on Mali GPUs).
+> • **Frame Pacing Polish:** Eliminated micro-stutters during high-speed driving.
+
+---
+
+### 🛠️ **CRITICAL BUG FIXES**
+> • **Xiaomi Controller Fix:** Resolved a bug where Xiaomi system inputs (`uinput-xiaomi`) were falsely detected as connected gamepads, hiding touch controls.
+> • **Minimap Anchor Fix:** Fixed the radar, player arrow, and health bars shifting on certain devices. The minimap is now permanently and cleanly locked to the bottom-left corner for everyone.
+
+---
+
+### 🎛️ **NEW SETTINGS & CUSTOMIZATION**
+> • **"SHOW FPS" Toggle:** You can now toggle the FPS HUD on/off in **Settings ➔ Graphics** or **Settings ➔ Controls & HUD**.
+>   *(Off by default for maximum immersion; DRS continues optimizing performance in the background!)*
+> • **Touch Controls Opacity:** Added full slider support (20% – 100%) to customize button visibility.
+> • **Haptic Feedback:** Improved vibration punch on gun recoil and on-screen button taps.
+
+
+
 ---
 
 ## [2.1.0] - 2026-11-01
