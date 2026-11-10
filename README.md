@@ -3,7 +3,6 @@
 [![Platform: Android](https://img.shields.io/badge/Platform-Android%208.0%2B-green.svg)](https://android.com)
 [![Architecture: ARM64](https://img.shields.io/badge/Arch-arm64--v8a-blue.svg)](https://developer.android.com/ndk)
 [![Graphics: Vulkan](https://img.shields.io/badge/Graphics-Vulkan%201.1%2B-orange.svg)](https://www.vulkan.org/)
-[![Release: v3.0.0](https://img.shields.io/badge/Release-v3.0.0-gold.svg)](https://github.com/WALID1618Y/GTA-V-android-PORT/releases/tag/Grand-V)
 [![Donate: Buy Me A Coffee](https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-yellow.svg?logo=buy-me-a-coffee)](https://buy-me-coffee.wasmer.app/)
 
 A native Android launcher and engine runtime for Grand Theft Auto V, engineered from the ground up for modern 64-bit ARM mobile devices with Vulkan hardware acceleration, console-grade controller support, and intelligent performance optimization.
@@ -33,7 +32,7 @@ A native Android launcher and engine runtime for Grand Theft Auto V, engineered 
 ## 📲 Download & Installation
 
 ### Direct Download Link
-👉 **[Download GTAV_Android_v3.0.0_arm64.apk](https://github.com/WALID1618Y/GTA-V-android-PORT/releases/tag/Grand-V)**
+👉 **[Download GTAV_Android_v3.4.6_arm64.apk](https://github.com/WALID1618Y/GTA-V-android-PORT/releases/tag/Grand-V)**
 
 ---
 
