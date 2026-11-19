@@ -45,9 +45,11 @@ A native Android launcher and engine runtime for Grand Theft Auto V, engineered 
 | **GPU / Graphics** | Adreno 6xx / Mali-G99 | Adreno 7xx |
 | **RAM** | 8 GB | 12 GB LPDDR5X |
 | **Storage** | 15 GB | 15 GB |
-| **Drivers** | Vulkan 1.1+ | Vulkan 1.3 |
+| **Drivers** | Vulkan 1.3 | Vulkan 1.3 |
 | **Cooling / Thermal** | Passive cooling (throttling expected) | Active cooling fan or phone cooler accessory |
 | **Network** | 4G LTE | WIFI |
+
+and also i recommend to play the game using controller for better experience.
 
 
 ---
